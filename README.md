@@ -1,8 +1,5 @@
-==================================================================
 R-Getting-and-Cleaning-Data
-================================================================== Luis
-Alberto Alaniz Castillo
-==================================================================
+Luis Alberto Alaniz Castillo
 
 The experiments have been carried out with a group of 30 volunteers
 within an age bracket of 19-48 years. Each person performed six
@@ -32,7 +29,6 @@ features were averaged by subject and activity giving rise to the
 current data set.
 
 For each record it is provided:
-===============================
 
 -   Triaxial acceleration from the accelerometer (total acceleration)
     and the estimated body acceleration.
@@ -42,7 +38,6 @@ For each record it is provided:
 -   An identifier of the subject who carried out the experiment.
 
 The dataset includes the following files:
-=========================================
 
 -   'README.txt'
 
@@ -54,4 +49,5 @@ Notes:
 ======
 
 -   Features are normalized and bounded within [-1,1].
+
 
